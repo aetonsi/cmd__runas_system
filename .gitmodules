@@ -1,0 +1,3 @@
+[submodule "bin__psexec64"]
+	path = bin__psexec64
+	url = https://github.com/aetonsi/bin__psexec64.git
